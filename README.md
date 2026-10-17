@@ -1,4 +1,4 @@
-# 👨‍💻 Phan Trần Thế Sơn 👋
+# 👨‍💻 Phan Trần Thế Sơn
 
 Data Analyst | International Business and Education Background
 <br>📍 Hanoi | 📧 son.phantranthe2000@gmail.com
