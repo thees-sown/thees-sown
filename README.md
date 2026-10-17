@@ -32,7 +32,7 @@ Leveraging a Design Thinking framework to diagnose operational bottlenecks, eval
 
 - **Language**: 8.5 IELTS <i>(April 2022)</i>
 
-- Employee of the Year 2023 & 2024
+- **Employee of the Year** <i>(2023 & 2024)</i>
 
 <!--
 **thees-sown/thees-sown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
