@@ -14,6 +14,25 @@ Integrated 50K+ sales orders from three CSVs using Power Query for cleaning and 
 ### <a href = "https://github.com/thees-sown/Mexican-FnB-2012-Analysis"> Mexican FnB 2012 Analysis | Power BI </a>
 Leveraging a Design Thinking framework to diagnose operational bottlenecks, evaluate regional potential, and provide data-driven expansion strategies for restaurant investors.
 
+## ⚙️ Technical Skills
+- Database system and spreadsheet: SQL, Google BigQuery, MSExcel, Google Sheets, App Scripts
+- BI Tool: Power BI (DAX, M Language)
+- Programming tools: Python (NumPy, pandas, matplotlib, seaborn)
+
+## 🎓 Education
+
+<b> National Economics University </b>  <i>(September 2018 - June 2022)</i>
+
+<i> Bachelor of International Business - High Distinction (3.73 / 4.0) </i>
+
+## 🌟 Certifications
+- **SQL**: Hackerrank 3 Levels <i>(November 2025)</i>
+
+- **Excel**: Macquarie University - Excel for Business 4 Levels <i>(March 2025)</i>
+
+- **Language**: 8.5 IELTS <i>(April 2022)</i>
+
+- Employee of the Year 2023 & 2024
 
 <!--
 **thees-sown/thees-sown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
