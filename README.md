@@ -8,6 +8,9 @@ Transitioning into Data Analytics from a background in International Business an
 
 ## 📊 Featured Projects
 
+### <a href = "https://github.com/thees-sown/Ecommerce-Web-Performance-Purchase-Behavior-Analysis-SQL-BigQuery"> E-commerce Web Performance and Purchase Behaviors Analysis | SQL, BigQuery </a>
+This project analyzes an E-commerce dataset using SQL in Google BigQuery, based on Google Analytics data. It focuses on extracting key business insights, including user behavior, revenue trends, bounce rates, cohort analysis, and purchase patterns.
+
 ### <a href = "https://github.com/thees-sown/Superstore-Retail-Business-Performance-Analysis-and-Expansion-Strategy"> Superstore Retail Business Performance Analysis and Expansion Strategy | Power BI </a>
 Integrated 50K+ sales orders from three CSVs using Power Query for cleaning and transformation. Built a data model, applied Design Thinking, and developed an interactive Power BI dashboard. Used DAX for key metrics and visualizations, providing insights for market expansion and product optimization.
 
